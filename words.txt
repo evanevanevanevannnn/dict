@@ -1,0 +1,5 @@
+мать,la mere,1000000
+женщина,la femme,1000000
+место,la place,0
+ghbdtn,ghbdtn,1000000
+ghbdtn2,ghbdtn2,0
